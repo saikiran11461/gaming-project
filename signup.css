@@ -1,0 +1,44 @@
+#formdiv{
+    /* border: 2px solid red; */
+    width: 400px;
+    margin: auto;
+    height: 400px;
+    top: 40px                                                                                                                                                                              ;
+}
+#inform{
+    /* border: 2px solid black; */
+    width: 400px;
+    height: 100px;
+    margin: 200px 0px;
+    padding: 30px;
+    background-color: aqua;
+    border-radius: 25px;
+}
+#inform input{
+    padding: 15px 50px;
+    border-radius: 20px;
+    border: 2px solid black;
+    margin: 20px 0px;
+}
+#inform input:hover{
+    padding: 15px 50px;
+    border: 2px solid red;
+    border-radius: 20px;
+
+   
+}
+#inform button{
+    padding: 10px 30px;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+}
+#inform button:hover{
+    padding: 10px 30px;
+    border: 3px solid black;
+    border-radius: 20px;
+    color: black;
+    background-color: yellow;
+    font-size: 12px;
+}
+                                                                                                      
